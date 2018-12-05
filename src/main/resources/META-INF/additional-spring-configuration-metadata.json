@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "sourceType": "com.baomidou.mybatisplus.MybatisConfiguration",
+      "defaultValue": "com.baomidou.mybatisplus.MybatisXMLLanguageDriver",
+      "name": "mybatis-plus.configuration.default-scripting-language",
+      "description": "A default LanguageDriver class.",
+      "type": "java.lang.Class<? extends org.apache.ibatis.scripting.LanguageDriver>"
+    }
+  ]
+}
